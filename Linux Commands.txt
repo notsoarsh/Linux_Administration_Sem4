@@ -9,7 +9,11 @@ tail-
 
 used to retreive the last 10 lines of the file
 
-/We can also use -(number of lines) with head and tail
+/We can also use -(number of lines) with head and tail/
+
+less-
+
+used to see te contents of a file one screen at a time.
 
 
  
