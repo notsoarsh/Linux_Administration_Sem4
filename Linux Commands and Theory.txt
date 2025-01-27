@@ -32,6 +32,27 @@ Commands-
 top-
 used to running processes along with their properties.
 
+ni-
+niceness index, shows the priority.(range -20 to 19).
+
+nice -(priority)
+sets the priority for the first time
+
+renice -
+used to change the priority of the process.
+
+ps-
+(process status) tells the running task on current terminal
+
+kill-
+sends signals to end a particular process. signals define the way how the process is to be killed.
+
+sigkill-
+forcefull kill
+
+sigkill-
+correct way to kill
+
 
 
 
