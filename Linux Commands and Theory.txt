@@ -1,0 +1,38 @@
+------------------Commands Of Linux--------------------
+
+head-
+
+used to retrieve the first 10 lines of a file
+
+
+tail-
+
+used to retreive the last 10 lines of the file
+
+/We can also use -(number of lines) with head and tail/
+
+less-
+
+used to see te contents of a file one screen at a time.
+
+-------PROCESS MANAGEMENT------
+Kernel - Heart of OS. Manages the software and hardware.
+
+Daemon process-
+A daemon process is a computer program that runs in the background of a multitasking operating system, performing tasks without user intervention.
+
+Critical Process-
+In Linux, a "critical process" refers to a process that is essential for the proper functioning of the system and needs to be running smoothly at all times, meaning if it fails, the system could experience significant disruptions or become unusable; essentially, it's a process that needs priority access to system resources to ensure reliable operation. 
+
+User Process-
+Processes runned via user.
+
+Commands-
+
+top-
+used to running processes along with their properties.
+
+
+
+
+ 
