@@ -59,4 +59,15 @@ to update the Advance Package Manager
 sudo apt install (pkgname)
 to install a particular package
 
+remove (package)
+removes the particular package without deleting the configuration file
+
+purge (package)
+to completely remove the package
+
+sudo apt depends (package)
+list the dependencies of the package
+
+sudo apt satisfy (package)
+resolves the dependencies
  
