@@ -53,7 +53,10 @@ forcefull kill
 sigkill-
 correct way to kill
 
+sudo apt update-
+to update the Advance Package Manager
 
-
+sudo apt install (pkgname)
+to install a particular package
 
  
