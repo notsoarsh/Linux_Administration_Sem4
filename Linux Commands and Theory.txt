@@ -70,4 +70,25 @@ list the dependencies of the package
 
 sudo apt satisfy (package)
 resolves the dependencies
- 
+
+3 Feb 25
+File Permissions
+
+umask values-
+subtract the default value(last 3) from 666 to get the file perm
+subtract the default value(last 3) from 777 to get the directory perm
+
+permissions in octal-
+0-no perm
+1- x
+2-w
+3- w+x
+4- r
+5- r+x
+6- r+w
+7- r+w+x
+
+Default umask value 0002
+
+
+
