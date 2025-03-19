@@ -15,9 +15,11 @@ Use the touch command to create sets of empty practice files to use during this 
 - **Example**:  
   ```bash  
   touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
-  ![4](https://github.com/user-attachments/assets/4f949b66-a5c2-43fd-b2fd-e61e6776cd3b)
+
+
 ![3](https://github.com/user-attachments/assets/d7f83480-a905-432f-b8fd-b286456a0822)
 ![2](https://github.com/user-attachments/assets/f48d7a94-d01e-4c5d-b6c8-928d51cd7b53)
 ![1](https://github.com/user-attachments/assets/288d2e59-5bc3-47aa-8a93-d28241d0b0af)
+![4](https://github.com/user-attachments/assets/4f949b66-a5c2-43fd-b2fd-e61e6776cd3b)
 
 
