@@ -44,13 +44,17 @@ touch image_{01..05}.png  # Creates image_01.png, image_02.png, ..., image_05.pn
 Combine prefixes/suffixes with brace expansion for complex patterns.
 
 
-
-![1](https://github.com/user-attachments/assets/3d058b88-ead5-4273-936b-0a4c26a46f79)
-![2](https://github.com/user-attachments/assets/198877d7-df45-4fa4-9bb0-4f0500170060)
-![3](https://github.com/user-attachments/assets/89c54ddd-9ea3-451b-ad3b-59f5066e25a0)
-![4](https://github.com/user-attachments/assets/a9a4f43d-c1d3-4deb-ba7a-31e97a6def30)
-![5](https://github.com/user-attachments/assets/2b4a3640-ff61-4a88-aa6d-0136453e3a9b)
 ![6](https://github.com/user-attachments/assets/e45ce250-5938-4f3a-b5c7-21e8b5c092a5)
+![5](https://github.com/user-attachments/assets/2b4a3640-ff61-4a88-aa6d-0136453e3a9b)
+![4](https://github.com/user-attachments/assets/a9a4f43d-c1d3-4deb-ba7a-31e97a6def30)
+![3](https://github.com/user-attachments/assets/89c54ddd-9ea3-451b-ad3b-59f5066e25a0)
+![2](https://github.com/user-attachments/assets/198877d7-df45-4fa4-9bb0-4f0500170060)
+![1](https://github.com/user-attachments/assets/3d058b88-ead5-4273-936b-0a4c26a46f79)
+
+
+
+
+
 
 
   
